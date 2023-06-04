@@ -2,7 +2,7 @@
 
 **`Data Enthusiast`**
 
-My name is Bastian Armananta, and I am a current student pursuing a degree in Informatics Engineering at Institut Teknologi Telkom Purwokerto. Over the past two years, I have invested my time and efforts in studying advanced topics in artificial intelligence, deep learning, and data analysis. My enthusiasm and fascination for data analysis have motivated me to seek out future opportunities in this field.
+My name is Bastian Armananta, and I am a final year undergraduate majoring Computer Science at Institut Teknologi Telkom Purwokerto. Over the past two years, I have invested my time and efforts in studying advanced topics in artificial intelligence, deep learning, and data analysis. My enthusiasm and fascination for data analysis have motivated me to seek out future opportunities in this field.
 
 <p align="left">
       <a href="https://github.com/bastianarmananta?tab=followers">
